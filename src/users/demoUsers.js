@@ -41,23 +41,23 @@ export const demoUsers = [
   },
   {
     key: 'user-ext-001',
-    name: 'Emma (Canary)',
+    name: 'Emma (US Pro)',
     email: 'emma@test.com',
     country: 'US',
     plan: 'pro',
     userType: 'external',
     avatar: '👱‍♀️',
-    description: 'External user - likely in 30% rollout'
+    description: 'US pro tier customer'
   },
   {
     key: 'user-ext-002',
-    name: 'Frank (Canary)',
+    name: 'Frank (US Free)',
     email: 'frank@test.com',
     country: 'US',
     plan: 'free',
     userType: 'external',
     avatar: '👴',
-    description: 'External user - likely in 30% rollout'
+    description: 'US free tier customer'
   },
   {
     key: 'user-ext-003',
