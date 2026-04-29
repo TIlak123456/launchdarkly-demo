@@ -61,13 +61,13 @@ export const demoUsers = [
   },
   {
     key: 'user-ext-003',
-    name: 'Grace (Canary)',
-    email: 'grace@test.com',
+    name: 'Grace (UK Enterprise)',
+    email: 'grace@bigcorp.co.uk',
     country: 'UK',
-    plan: 'free',
+    plan: 'enterprise',
     userType: 'external',
     avatar: '👩‍🦰',
-    description: 'External user - likely in rollout'
+    description: 'UK enterprise customer'
   }
 ];
 
